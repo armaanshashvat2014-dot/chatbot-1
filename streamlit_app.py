@@ -10,7 +10,7 @@ st.set_page_config(
 )
 
 st.title("🌍 Complex Global AI")
-st.markdown("### Unlimited Global Intelligence | No API Keys")
+st.markdown("### Unlimited Global Intelligence ")
 
 # Initialize the Global Client
 client = Client()
